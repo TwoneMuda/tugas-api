@@ -12,6 +12,10 @@ Jika tabel sudah dibuat, jalankan hanya seedernya:
 php artisan db:seed
 ```
 
+Jalankan server:
+```bash
+php artisan serve
+```
 Akun demo yang tersedia:
 
 | Email | Password |
